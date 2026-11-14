@@ -54,7 +54,7 @@ Responsável pela divulgação do DRM Connect, comunicação com o público e es
 
 ### Perfil do usuário
 
-![Perfil do usuário](INSERIR_IMAGEM)
+![Perfil do usuário](public/perfil-do-usuario.jpeg)
 
 ---
 
