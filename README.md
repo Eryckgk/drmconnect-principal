@@ -42,11 +42,7 @@ Responsável pela divulgação do DRM Connect, comunicação com o público e es
 
 ### Página inicial
 
-![Página inicial](INSERIR_IMAGEM)
-
-### Área de perguntas e respostas
-
-![Perguntas e respostas](INSERIR_IMAGEM)
+![Página inicial](public/pagina-inicial.jpeg)
 
 ### Área de feedback
 
