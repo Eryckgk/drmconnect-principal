@@ -29,7 +29,7 @@ O DRM Connect está disponível online:
 ### 💻 Programação
 Responsável pelo desenvolvimento, implementação e manutenção da plataforma.
 
-### 🧪 Testes (QA)
+### 🧪 Testes 
 Responsável por testar as funcionalidades, identificar possíveis erros e verificar a qualidade do sistema.
 
 ### 📊 Análise de mercado
