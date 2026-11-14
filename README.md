@@ -44,13 +44,13 @@ Responsável pela divulgação do DRM Connect, comunicação com o público e es
 
 ![Página inicial](INSERIR_IMAGEM)
 
-### Feed de publicações
-
-![Feed de publicações](INSERIR_IMAGEM)
-
 ### Área de perguntas e respostas
 
 ![Perguntas e respostas](INSERIR_IMAGEM)
+
+### Área de feedback
+
+![Feedback](public/area-de-feedback.jpeg)
 
 ### Perfil do usuário
 
