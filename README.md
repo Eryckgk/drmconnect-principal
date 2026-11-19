@@ -1,3 +1,4 @@
+
 # DRM Connect
 
 ## 📌 Sobre o projeto
@@ -29,14 +30,54 @@ O DRM Connect está disponível online:
 ### 💻 Programação
 Responsável pelo desenvolvimento, implementação e manutenção da plataforma.
 
-### 🧪 Testes 
+- Davyson Levi
+- João Emanoel
+- João Paulo
+- Raffael
+- Luis Guilherme
+- João Mateus
+
+### 🧪 Testes
 Responsável por testar as funcionalidades, identificar possíveis erros e verificar a qualidade do sistema.
+
+- Erick Fernando
+- Kauã Gomes
 
 ### 📊 Análise de mercado
 Responsável por estudar o público-alvo, identificar as necessidades dos alunos e analisar oportunidades para o projeto.
 
+- Isabelle Lopes
+- Francisco Enzo
+- Francisco Bruno
+- Edigar Chaves
+- Ana Dávila
+- Lucivania Sousa
+- André Ryan
+- Caio Victor
+
 ### 📢 Marketing
 Responsável pela divulgação do DRM Connect, comunicação com o público e estratégias para alcançar novos usuários.
+
+- José Henrique
+- Aristides Neto
+- Rebeka Maria
+- Ângela Kyara
+- Maria Larissa
+- Ana Delly
+- Taislan Morais
+- João Victor
+
+### 🎨 Design
+Responsável pela identidade visual, organização dos elementos gráficos e experiência visual da plataforma.
+
+- Mario Pietro
+- Carlos Renan
+- Samuel Ribeiro
+- Wanessa
+- Pedro Henrique
+- Pedro Juan
+- Thaires Sousa
+- Luis Fernando
 
 ## 📸 Capturas de tela
 
