@@ -266,6 +266,11 @@ e limpa o formulario. Avaliacao selecionada fica refletida no envio.
 
 ## Resumo da rodada
 
+### Verificacao obrigatoria no PR
+
+- [ ] O workflow `CI` concluiu com sucesso: `npm ci`, `npm run lint` e `npm run build`.
+- [ ] A protecao da branch `main` exige o check `npm-ci-lint-build` antes do merge.
+
 ### Evidencia automatizada confirmada
 
 - `npm ci` restaurou as dependencias sem falha.
@@ -277,3 +282,4 @@ e limpa o formulario. Avaliacao selecionada fica refletida no envio.
 - A producao respondeu em `https://drmconnect.vercel.app`.
 - A conta compartilhada executou posts, curtida, resposta, denuncia, perfil, exclusao e feedback.
 - 320 px, 768 px, 1024 px e 1280 px foram medidos em interface autenticada.
+
